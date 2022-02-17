@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity-app</string>
+    <string name="etName1">Name</string>
+    <string name="etName2">Name</string>
+    <string name="SendButton">Send</string>
+    <string name="backButton">Back</string>
+</resources>
